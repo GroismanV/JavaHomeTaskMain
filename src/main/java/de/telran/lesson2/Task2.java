@@ -1,6 +1,6 @@
 package de.telran.lesson2;
 
-public class Tack2 {
+public class Task2 {
     public static void main(String[] args) {
         int abc=569;
         int a=abc/100; //результат сотни

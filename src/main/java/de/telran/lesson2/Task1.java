@@ -1,6 +1,6 @@
 package de.telran.lesson2;
 
-public class Tack1 {
+public class Task1 {
     public static void main(String[] args) {
         char a1 = 'G';
         int a2 = 89;
