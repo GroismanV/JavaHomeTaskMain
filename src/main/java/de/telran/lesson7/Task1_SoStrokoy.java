@@ -1,6 +1,6 @@
 package de.telran.lesson7;
 
-public class Lesson7Task1 {
+public class Task1_SoStrokoy {
 
         public static void main(String[] args) {
             String str = new String("I study Basic Java!");

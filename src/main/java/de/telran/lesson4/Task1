@@ -1,15 +1,15 @@
-public class Task1 {
+public class Task1Lesson7 {
 
-        public static void main(String[] args) {
-            // Создайте строку через new - I study Basic Java!
-            String str = new String("I study Basic Java!");
+    public static void main(String[] args) {
+        // Создайте строку через new - I study Basic Java!
+        String str = new String("I study Basic Java!");
 
-            // Напишите метод, который принимает в качестве параметра строку, передайте в
-            // этот метод строку, которую создали в п.1
-            printString(str);
-        }
+        // Напишите метод, который принимает в качестве параметра строку, передайте в
+        // этот метод строку, которую создали в п.1
+        //printString(str);
 
-        public static void printString(String s) {
+        //public static void printString (String s){
+
             // Распечатать пред-последний символ строки. Используем метод String.charAt().
             System.out.println("Пред-последний символ строки: " + s.charAt(s.length() - 2));
 
