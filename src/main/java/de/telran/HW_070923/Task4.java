@@ -32,7 +32,7 @@
 //                   + realMinitsBisEnd + " минут или - " + realSecundBisEnd + " секунд");
 //       }
 //   }
-package de.telran.HW070923;
+package de.telran.HW_070923;
 import java.util.Random;
 
 public class Task4

@@ -1,4 +1,4 @@
-package de.telran.HW070923;
+package de.telran.HW_070923;
 
 public class Task2 {
     public static void main(String[] args) {
